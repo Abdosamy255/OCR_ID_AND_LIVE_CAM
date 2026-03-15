@@ -11,7 +11,7 @@ import cv2  # تم إضافة مكتبة المعالجة
 # --------------------------------------------------
 # Tesseract Path (Windows)
 # --------------------------------------------------
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+#pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # --------------------------------------------------
 # Page Config
