@@ -3,4 +3,3 @@ pytesseract>0.3.10
 opencv-python-headless
 numpy>1.26.0
 Pillow>10.0.0
-packages.txt
